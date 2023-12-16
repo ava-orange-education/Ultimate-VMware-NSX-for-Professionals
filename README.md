@@ -36,4 +36,4 @@ bridging.
 3. [Modern Web Applications With Next.JS](https://orangeava.com/products/modern-web-applications-with-next-js)
 
 ## Visit Website 
-[ORANGE AVA™](https://orangeava.com)
+[www.orangeava.com](https://orangeava.com)
